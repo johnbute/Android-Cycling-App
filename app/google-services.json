@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56065803057",
+    "project_id": "cyclingdatabase-28241",
+    "storage_bucket": "cyclingdatabase-28241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56065803057:android:9b48d362b984fe7fb36610",
+        "android_client_info": {
+          "package_name": "com.example.cyclingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsNTG2W3U-NPA0H9K5sKIqiR7zf4q_DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56065803057:android:7dc63110036e2750b36610",
+        "android_client_info": {
+          "package_name": "com.example.cyclinggroupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsNTG2W3U-NPA0H9K5sKIqiR7zf4q_DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

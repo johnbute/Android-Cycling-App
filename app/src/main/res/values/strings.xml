@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CyclingGroupapp</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account_sign_up">Do Not Have an Account? Sign Up</string>
+    <string name="email">Email</string>
+    <string name="login_to_your_existing_account">Login to your existing account</string>
+    <string name="WelcomeButton">Next</string>
+
+
+</resources>
